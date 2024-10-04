@@ -1,7 +1,8 @@
 # Data-Analysis-using-Python
 # Download pdf file to see complete data and code
 # Here's only screenshots
-![Capture](https://github.com/user-attachments/assets/c9d22f35-1dc6-4433-be42-f604772b0a8d)
+![Capture](https://github.com/user-attachments/assets/3a038c65-bdf9-42a8-8c32-602296825a4a)
+
 
 ![Capture5](https://github.com/user-attachments/assets/f3b79e17-d165-4b7f-91d2-6549da7e2293)
 
